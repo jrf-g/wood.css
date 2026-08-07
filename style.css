@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Arbutus&family=Rye&family=Smokum&display=swap');
+
+body.wood {
+    color: dimgray;
+    background-color: burlywood;
+    border-color: saddlebrown;
+}
+
+body.wood h1 {
+    font-family: "Smokum", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body.wood p {
+    font-family: "Arbutus", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body.wood button {
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    background-color: #963;
+}
